@@ -1,7 +1,7 @@
 {
   "name": "Zoro md bot",
   "description": "First Whatsapp Bot zoro md",
-  "repository": "https://github.com/Alien-Alfa/AlienAlfaBot",
+  "repository": "https://github.com/zokosir/Zoro-md/tree/MASTER",
   "logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
 	"env": {
@@ -12,17 +12,17 @@
         "OWNER_NUMBER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": true,
-            "value": "447405935255"
+            "value": "919778158839"
         }, 
         "OWNER_NAME": {
             "description": "Pleas enter your Name.",
             "required": true,
-        "value": "Alien Alfa"
+        "value": "Zoro-md"
         }, 
         "WORK_TYPE": {
             "description": "Public or Private(true = Private, False = Public).",
             "required": true,
-                "value": "false"
+                "value": "true"
         }, 
         "AUTO_READ": {
             "description": "Automatic chat reading(true or false).",
@@ -32,7 +32,7 @@
         "AUTO_STICKER": {
             "description": "Automatic filterd sticker sending function(true or false).",
             "required": true,
-                "value": "false"
+                "value": "true"
         }, 
         "AUTO_VN": {
             "description": "Automatic filterd voice note sending function(true or false).",
@@ -42,7 +42,7 @@
         "BOT_NAME": {
             "description": "Pleas enter your BOT Name.",
             "required": true,
-                "value": "Toxic Bot"
+                "value": "Zoro md"
         }, 
         "MENU_LOGO": {
             "description": "Icon or emoji to show in menu list.",

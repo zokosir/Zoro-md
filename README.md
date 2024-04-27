@@ -2,9 +2,7 @@
   <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/maintained-no-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/_the_soul_rider_/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
-</p>
+
 
 <p align="center">
 <strong>Z O R O - M D ＢＯＴ</strong>

@@ -1,6 +1,3 @@
-<p align="left">
-  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/maintained-no-cyan.svg?style=for-the-badge&logo=xcode" /></a>
-</p>
 
 
 

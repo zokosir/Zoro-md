@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<strong>ＡＬＩＥＮ ＡＬＦＡ ＢＯＴ</strong>
+<strong>Z O R O - M D ＢＯＴ</strong>
 </p>
 
 
